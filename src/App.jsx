@@ -13,12 +13,12 @@ import ContactUs from "./pages/ContactUs";
 
 const router = HashRouter(
   createRoutesFromElements(
-    <Route path="/" element={<Layout />}>
+    <Route path="/dananz" element={<Layout />}>
       <Route index element={<Homepage />} />
-      <Route path="about" element={<About />} />
-      <Route path="services" element={<Services />} />
-      <Route path="teams" element={<Teams />} />
-      <Route path="contactus" element={<ContactUs />} />
+      <Route path="/dananz/about" element={<About />} />
+      <Route path="/dananz/services" element={<Services />} />
+      <Route path="/dananz/teams" element={<Teams />} />
+      <Route path="/dananz/contactus" element={<ContactUs />} />
     </Route>
   )
 );
