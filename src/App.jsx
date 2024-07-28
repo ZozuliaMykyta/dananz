@@ -1,5 +1,5 @@
 import {
-  createBrowserRouter,
+  HashRouter,
   createRoutesFromElements,
   RouterProvider,
   Route,
@@ -11,7 +11,7 @@ import Services from "./pages/Services";
 import Teams from "./pages/Teams";
 import ContactUs from "./pages/ContactUs";
 
-const router = createBrowserRouter(
+const router = HashRouter(
   createRoutesFromElements(
     <Route path="/" element={<Layout />}>
       <Route index element={<Homepage />} />
