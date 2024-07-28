@@ -1,5 +1,5 @@
 import {
-  HashRouter,
+  HashRouter as Router,
   createRoutesFromElements,
   RouterProvider,
   Route,
