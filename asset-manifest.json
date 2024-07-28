@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dananz/static/css/main.48a60b28.css",
-    "main.js": "/dananz/static/js/main.99f5465a.js",
+    "main.js": "/dananz/static/js/main.122de488.js",
     "static/media/preview-img.jpeg": "/dananz/static/media/preview-img.f9e593597fd0cbc3f3af.jpeg",
     "static/media/home-service.jpeg": "/dananz/static/media/home-service.f54f064e0b04866df468.jpeg",
     "static/media/achievement-img.jpeg": "/dananz/static/media/achievement-img.3f2131847f9ab7a63afa.jpeg",
@@ -24,10 +24,10 @@
     "static/media/home-arrow-right.svg": "/dananz/static/media/home-arrow-right.70b04e723067d9f75ba7.svg",
     "index.html": "/dananz/index.html",
     "main.48a60b28.css.map": "/dananz/static/css/main.48a60b28.css.map",
-    "main.99f5465a.js.map": "/dananz/static/js/main.99f5465a.js.map"
+    "main.122de488.js.map": "/dananz/static/js/main.122de488.js.map"
   },
   "entrypoints": [
     "static/css/main.48a60b28.css",
-    "static/js/main.99f5465a.js"
+    "static/js/main.122de488.js"
   ]
 }
