@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/dananz/static/css/main.48a60b28.css",
+    "main.js": "/dananz/static/js/main.99f5465a.js",
+    "static/media/preview-img.jpeg": "/dananz/static/media/preview-img.f9e593597fd0cbc3f3af.jpeg",
+    "static/media/home-service.jpeg": "/dananz/static/media/home-service.f54f064e0b04866df468.jpeg",
+    "static/media/achievement-img.jpeg": "/dananz/static/media/achievement-img.3f2131847f9ab7a63afa.jpeg",
+    "static/media/design-kitchen.jpeg": "/dananz/static/media/design-kitchen.145595bfeba1e423ba95.jpeg",
+    "static/media/achievement-img-3.jpeg": "/dananz/static/media/achievement-img-3.a04a57d2aa692044c106.jpeg",
+    "static/media/home-about.jpeg": "/dananz/static/media/home-about.64c0137a67aa9d581ffa.jpeg",
+    "static/media/achievement-img-1.jpeg": "/dananz/static/media/achievement-img-1.171276522156ab099a87.jpeg",
+    "static/media/achievement-img-2.jpeg": "/dananz/static/media/achievement-img-2.1eeb8fc0aa45f3d4561c.jpeg",
+    "static/media/home-material-1.jpeg": "/dananz/static/media/home-material-1.90b97518ad1930428364.jpeg",
+    "static/media/designer-person-2.jpeg": "/dananz/static/media/designer-person-2.1adddb6baf204bc5feb8.jpeg",
+    "static/media/designer-person-4.jpeg": "/dananz/static/media/designer-person-4.bd1a0c8faeb805e41882.jpeg",
+    "static/media/designer-person-1.jpeg": "/dananz/static/media/designer-person-1.bc4a4037ab398b87ecdc.jpeg",
+    "static/media/designer-person-8.jpeg": "/dananz/static/media/designer-person-8.1049bd862acaa8ff828b.jpeg",
+    "static/media/designer-person-7.jpeg": "/dananz/static/media/designer-person-7.ef94b833da436d6ebfc2.jpeg",
+    "static/media/designer-person-6.jpeg": "/dananz/static/media/designer-person-6.f769e0b4c0fd9c8b3cbe.jpeg",
+    "static/media/home-material-2.jpeg": "/dananz/static/media/home-material-2.87228844888651d5063a.jpeg",
+    "static/media/designer-person-5.jpeg": "/dananz/static/media/designer-person-5.d78ae1e292a45ec3dde6.jpeg",
+    "static/media/home-material-3.jpeg": "/dananz/static/media/home-material-3.a5351025806fce63f643.jpeg",
+    "static/media/designer-person-3.jpeg": "/dananz/static/media/designer-person-3.22735e5fd363395d31a7.jpeg",
+    "static/media/home-arrow-right.svg": "/dananz/static/media/home-arrow-right.70b04e723067d9f75ba7.svg",
+    "index.html": "/dananz/index.html",
+    "main.48a60b28.css.map": "/dananz/static/css/main.48a60b28.css.map",
+    "main.99f5465a.js.map": "/dananz/static/js/main.99f5465a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48a60b28.css",
+    "static/js/main.99f5465a.js"
+  ]
+}
